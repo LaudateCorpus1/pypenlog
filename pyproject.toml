@@ -20,7 +20,7 @@ python = "^3.9"
 
 [tool.poetry.dev-dependencies]
 mccabe = "^0.6.1"
-rope = "^0.22.0"
+rope = "^1.6.0"
 mypy = "^0.931"
 flake8 = "^4.0.1"
 
